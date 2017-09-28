@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="helloweb-parent:war">
+    <output-path>$PROJECT_DIR$/../multi-module-with-maven/helloweb-parent/target</output-path>
+    <root id="archive" name="helloweb-parent.war">
+      <element id="artifact" artifact-name="helloweb-parent:war exploded" />
+    </root>
+  </artifact>
+</component>
